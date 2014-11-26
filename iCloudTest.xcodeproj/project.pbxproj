@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8C0AB1991A25B0F800B7626F /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C0AB1971A25B0F800B7626F /* TableViewController.m */; };
+		8C0AB19A1A25B0F800B7626F /* TableViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8C0AB1981A25B0F800B7626F /* TableViewController.xib */; };
 		8CD3F85E19E778B50062CB0B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CD3F85D19E778B50062CB0B /* Foundation.framework */; };
 		8CD3F86019E778B50062CB0B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CD3F85F19E778B50062CB0B /* CoreGraphics.framework */; };
 		8CD3F86219E778B50062CB0B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CD3F86119E778B50062CB0B /* UIKit.framework */; };
@@ -36,6 +38,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8C0AB1961A25B0F800B7626F /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		8C0AB1971A25B0F800B7626F /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
+		8C0AB1981A25B0F800B7626F /* TableViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TableViewController.xib; sourceTree = "<group>"; };
 		8CD3F85A19E778B50062CB0B /* iCloudTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iCloudTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CD3F85D19E778B50062CB0B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		8CD3F85F19E778B50062CB0B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -129,6 +134,9 @@
 				8CD3F86419E778B50062CB0B /* Supporting Files */,
 				8CD3F89719E7B3EF0062CB0B /* MyDocument.h */,
 				8CD3F89819E7B3EF0062CB0B /* MyDocument.m */,
+				8C0AB1961A25B0F800B7626F /* TableViewController.h */,
+				8C0AB1971A25B0F800B7626F /* TableViewController.m */,
+				8C0AB1981A25B0F800B7626F /* TableViewController.xib */,
 			);
 			path = iCloudTest;
 			sourceTree = "<group>";
@@ -249,6 +257,7 @@
 				8CD3F89E19E7CF5F0062CB0B /* Screenshot_0.png in Resources */,
 				8CD3F87619E778B60062CB0B /* Images.xcassets in Resources */,
 				8CD3F86819E778B50062CB0B /* InfoPlist.strings in Resources */,
+				8C0AB19A1A25B0F800B7626F /* TableViewController.xib in Resources */,
 				8CD3F87119E778B60062CB0B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -271,6 +280,7 @@
 				8CD3F87419E778B60062CB0B /* ViewController.m in Sources */,
 				8CD3F86E19E778B60062CB0B /* AppDelegate.m in Sources */,
 				8CD3F86A19E778B50062CB0B /* main.m in Sources */,
+				8C0AB1991A25B0F800B7626F /* TableViewController.m in Sources */,
 				8CD3F89919E7B3EF0062CB0B /* MyDocument.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -484,6 +494,7 @@
 				8CD3F88E19E778B60062CB0B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8CD3F88F19E778B60062CB0B /* Build configuration list for PBXNativeTarget "iCloudTestTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +503,7 @@
 				8CD3F89119E778B60062CB0B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

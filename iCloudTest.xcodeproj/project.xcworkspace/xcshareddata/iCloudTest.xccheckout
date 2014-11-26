@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F3400EB9-4EE8-4FED-81E3-58F3E4547FAB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iCloudTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5B84EFB8-684B-4155-A49F-EBF3ADA8B167</key>
+		<string>https://github.com/chenzufa/iCloud.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iCloudTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5B84EFB8-684B-4155-A49F-EBF3ADA8B167</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chenzufa/iCloud.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5B84EFB8-684B-4155-A49F-EBF3ADA8B167</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5B84EFB8-684B-4155-A49F-EBF3ADA8B167</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iCloud</string>
+		</dict>
+	</array>
+</dict>
+</plist>
